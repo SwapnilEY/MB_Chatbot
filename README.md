@@ -74,7 +74,7 @@ Before we get started, make sure you have the following installed on your machin
    1. GIT: 
       - please select the branch which you want to clone
       - execute this command in CMD from the folder where you want the git repo to be: 
-        git clone --branch <branch_name> __
+        git clone --branch <branch_name> https://github.com/SwapnilEY/MB_Chatbot.git
 
   2. Python
      - Go to the folder where git repo is cloned (ref. Step 1).
