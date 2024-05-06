@@ -92,5 +92,5 @@ Before we get started, make sure you have the following installed on your machin
 - The installation of python requirements might get version conflicts, in such cases please remove the versions from the resources\requirements.txt for the mentioned library and try again.
 
 
-## Testing model with different questions.
--If you want to test the model with different questions, you can rename "indexs.html" to "index.html" and while doing so rename existing index.html file to something else.
+## Testing model with different questions than defined set of questions.
+-If you want to test the model with different questions, go to app.py file --> replace index.html with indexs.html
